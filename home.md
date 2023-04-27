@@ -4,6 +4,6 @@ permalink: /
 layout: default
 ---
 
-#Property, Community, and State
+# Property, Community, and State
 
 Essays on how humans resolve conflict.
