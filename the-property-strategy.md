@@ -5,6 +5,7 @@ layout: default
 ---
 
 ![image](https://thumbs.odycdn.com/7de211ffd53cfc1220baf646681894b4.png)
+
 Property rights can be described many ways. They can be described as a legal or moral concept. They can be thought of as an economic or political concept. However, respect for property is fundamentally a strategy to avoid conflict that arises from competition over scarce resources. To understand property rights better let’s consider a game from game theory called the Hawk-Dove game also know as the War of Attrition.
 
 In the Hawk-Dove game two players are in competition for a valued resource. Each turn a player can either share or take all. The take strategy is called hawk and the share strategy is called dove. Thus, the name of the game.
