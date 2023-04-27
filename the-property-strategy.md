@@ -46,6 +46,8 @@ It also shows how important property right are in reducing conflict. This is jus
 
 To read more on property see, [Emergence of Individual Property Rights Among Humans](https://odysee.com/@Properal:7/emergence-of-individual-property-rights-in-humans:7).
 
+---
+
 References:
 
 [Game Theory 101: The Hawk-Dove Game](http://www.gametheory101.com/Hawk-Dove_Game.html) by William Spaniel
