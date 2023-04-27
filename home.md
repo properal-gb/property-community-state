@@ -8,7 +8,8 @@ layout: default
 
 Essays on how humans resolve conflict.
 
-[The Property Strategy](/the-property-strategy)
+##[The Property Strategy](/the-property-strategy)
+
 Respect for property is fundamentally a strategy to avoid conflict that arises from competition over rivalrous resources.
 
 
