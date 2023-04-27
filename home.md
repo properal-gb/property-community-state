@@ -1,5 +1,5 @@
 ---
-title: "Make a Website with Only Markdown"
+title: "Property, Community, and State"
 permalink: /
 layout: default
 ---
