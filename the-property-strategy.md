@@ -4,6 +4,8 @@ permalink: /the-property-strategy
 layout: default
 ---
 
+# The Property Strategy
+
 ![image](https://thumbs.odycdn.com/7de211ffd53cfc1220baf646681894b4.png)
 
 Property rights can be described many ways. They can be described as a legal or moral concept. They can be thought of as an economic or political concept. However, respect for property is fundamentally a strategy to avoid conflict that arises from competition over scarce resources. To understand property rights better let’s consider a game from game theory called the Hawk-Dove game also know as the War of Attrition.
