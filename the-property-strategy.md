@@ -1,6 +1,6 @@
 ---
 title: "The Property Strategy"
-permalink: /property-community-state/the-property-strategy
+permalink: /the-property-strategy
 layout: default
 ---
 
