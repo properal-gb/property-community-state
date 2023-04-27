@@ -8,7 +8,7 @@ layout: default
 
 Essays on how humans resolve conflict.
 
-## [The Property Strategy](https://github.com/properal-gb/property-community-state/blob/main/the-property-strategy)
+## [The Property Strategy](https://properal-gb.github.io/property-community-state/the-property-strategy)
 
 Respect for property is fundamentally a strategy to avoid conflict that arises from competition over rivalrous resources.
 
